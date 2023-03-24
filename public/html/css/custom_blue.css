@@ -1,0 +1,12 @@
+body {
+	#background-color:#000E52; 
+	background-color:#FFFFFF; 
+	font-family: Verdana,Geneva,sans-serif; 
+	#color:#FFFFFF;
+	color:#000E52;
+}
+
+.navbar-custom {
+    background-color: #000E52;
+	color:#FFFFFF;
+}

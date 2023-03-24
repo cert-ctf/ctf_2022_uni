@@ -1,0 +1,26 @@
+Received: from mail.cryptocruise.uz (127.0.0.1) by
+Content-Type: application/ms-tnef; name="mail"
+Content-Transfer-Encoding: binary
+From: "OSINTS" <vip@osintb.ar>
+To: "Phishies" <info@phishies.restaurant>
+Subject: URGENT: V.I.P. Datenschutzerkl&auml;rung
+Date: Fri, 18 Nov 2022 08:00:00 +0100
+Message-ID: <ecdsfdsdfewrfb385sfsdfgsd@cryptocruise.uz>
+Accept-Language: de-DE, en-US
+Content-Language: de-DE
+Message-Text: "Hallo Phishies,
+wir erneuern unsere Daetenschutzerkl&auml;rungen weshalb sie sofort ihren PASCODE for den V.I.P Bereich in der OSINTS Bar renewen m&uuml;ssen. Auch werden sie erhalten 200 Freigetränke wenn sie noch heute &auml;ndern. Bitte schicken sie uns ihren alt PASSCODE und ihren neuen Wunsch Passcode dazu an vip@osintb.ar !
+Danke und great Gr&uuml;&szlig;e
+OSINTS Bar"
+X-MS-Has-Attach:
+X-MS-Exchange-Organization-SCL: -1
+MIME-Version: 1.0
+X-MS-Exchange-Organization-MessageDirectionality: Originating
+X-MS-Exchange-Organization-AuthSource: mail.cryptocruise.uz
+X-MS-Exchange-Organization-AuthAs: Internal
+X-MS-Exchange-Organization-AuthMechanism: 04
+X-Originating-IP: [127.0.0.1]
+X-MS-Exchange-Organization-Network-Message-Id: fdgdsfg-234234-46534-sdsf-sdfsdfwerf
+Return-Path: 0815@cryptocruise.uz
+X-MS-Exchange-Transport-EndToEndLatency: 00:00:00.2030527
+X-MS-Exchange-Processed-By-BccFoldering: 88.01.254.013
