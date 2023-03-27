@@ -93,7 +93,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_12"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_12"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -192,7 +192,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_11"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_11"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -291,7 +291,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_10"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_10"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -390,7 +390,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_09"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_09"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -489,7 +489,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_08"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_08"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -588,7 +588,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_07"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_07"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -687,7 +687,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_06"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_06"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -786,7 +786,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_05"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_05"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -885,7 +885,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_04"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_04"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -984,7 +984,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_03"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_03"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1083,7 +1083,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_02"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_02"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -1182,7 +1182,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_01"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_01"
                 }],
          "type":"tilelayer",
          "visible":true,
