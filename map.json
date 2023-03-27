@@ -36598,7 +36598,7 @@
         {
          "columns":32,
          "firstgid":18474,
-         "image":"..\/ctf_2022\/tilesets\/tileset_mainmap\/Terrain and LPc-submissions-Outside.png",
+         "image":"tilesets\/tileset_mainmap\/Terrain and LPc-submissions-Outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -36611,7 +36611,7 @@
         {
          "columns":32,
          "firstgid":19498,
-         "image":"..\/ctf_2022\/tilesets\/tileset_mainmap\/LPC-objects-plants-fish-submissions-outside.png",
+         "image":"tilesets\/tileset_mainmap\/LPC-objects-plants-fish-submissions-outside.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -36624,7 +36624,7 @@
         {
          "columns":32,
          "firstgid":20522,
-         "image":"..\/ctf_2022\/tilesets\/ZRPGBeach.png",
+         "image":"tilesets\/ZRPGBeach.png",
          "imageheight":1024,
          "imagewidth":1024,
          "margin":0,
@@ -36637,7 +36637,7 @@
         {
          "columns":16,
          "firstgid":21546,
-         "image":"..\/ctf_2022\/tilesets\/clouds.png",
+         "image":"tilesets\/clouds.png",
          "imageheight":400,
          "imagewidth":540,
          "margin":0,
@@ -36650,7 +36650,7 @@
         {
          "columns":9,
          "firstgid":21738,
-         "image":"..\/ctf_2022\/tilesets\/character.png",
+         "image":"tilesets\/character.png",
          "imageheight":320,
          "imagewidth":300,
          "margin":0,
@@ -36888,7 +36888,7 @@
         {
          "columns":9,
          "firstgid":21828,
-         "image":"..\/ctf_2022\/tilesets\/objects.png",
+         "image":"tilesets\/objects.png",
          "imageheight":300,
          "imagewidth":300,
          "margin":0,
@@ -37427,7 +37427,7 @@
         {
          "columns":6,
          "firstgid":25062,
-         "image":"..\/ctf_2022\/tilesets\/turntable.png",
+         "image":"tilesets\/turntable.png",
          "imageheight":200,
          "imagewidth":200,
          "margin":0,
@@ -37453,7 +37453,7 @@
         {
          "columns":9,
          "firstgid":25098,
-         "image":"..\/ctf_2022\/tilesets\/disco_ball.png",
+         "image":"tilesets\/disco_ball.png",
          "imageheight":300,
          "imagewidth":300,
          "margin":0,
