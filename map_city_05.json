@@ -1770,7 +1770,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/main#entrypoint"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/main#entrypoint"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -5240,7 +5240,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_05_island"
+                         "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_05_island"
                         }],
                  "type":"tilelayer",
                  "visible":true,

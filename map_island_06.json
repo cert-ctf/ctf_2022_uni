@@ -122,7 +122,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti\/team_06#entrypoint_backfromisland"
+                 "value":"https:\/\/play.workadventu.re\/@\/gematik\/epa_ti_uni\/team_06#entrypoint_backfromisland"
                 }],
          "type":"tilelayer",
          "visible":true,
